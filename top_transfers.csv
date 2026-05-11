@@ -1,0 +1,101 @@
+player_id,player_name,from_club_id,from_club_name,to_club_id,to_club_name,transfer_fee,transfer_date
+502670,Khvicha Kvaratskhelia,6195,Napoli,583,PSG,80000000.0,2025-01-17
+445939,Omar Marmoush,24,Frankfurt,281,Man City,75000000.0,2025-01-23
+576024,Julián Alvarez,281,Man City,13,Atlético,75000000.0,2024-08-12
+670681,João Neves,294,Benfica,583,PSG,65920000.0,2024-08-05
+258889,Dominic Solanke,989,Bournemouth,148,Tottenham,64300000.0,2024-08-10
+923831,Leny Yoro,1082,Lille,985,Man Utd,62000000.0,2024-07-18
+487465,Pedro Neto,543,Wolves,631,Chelsea,60000000.0,2024-08-11
+485706,Amadou Onana,29,Everton,405,Aston Villa,59350000.0,2024-07-22
+360518,Teun Koopmeiners,800,Atalanta,506,Juventus,58400000.0,2024-08-28
+293385,Dani Olmo,23826,Leipzig,131,Barcelona,55000000.0,2024-08-09
+566723,Michael Olise,873,Crystal Palace,27,Bayern Munich,53000000.0,2024-07-07
+462250,João Félix,13,Atlético,631,Chelsea,52000000.0,2024-08-21
+447661,Douglas Luiz,405,Aston Villa,506,Juventus,51500000.0,2024-07-01
+257455,João Palhinha,931,Fulham,27,Bayern Munich,51000000.0,2024-07-11
+566931,Xavi Simons,583,PSG,23826,Leipzig,50000000.0,2025-01-30
+476701,Manuel Ugarte,583,PSG,985,Man Utd,50000000.0,2024-08-30
+914562,Désiré Doué,273,Stade Rennais,583,PSG,50000000.0,2024-08-17
+525247,Maximilian Kilman,543,Wolves,379,West Ham,47500000.0,2024-07-06
+538977,Georginio Rutter,399,Leeds,1237,Brighton,46700000.0,2024-08-19
+326031,Matthijs de Ligt,27,Bayern Munich,985,Man Utd,45000000.0,2024-08-13
+485585,Ian Maatsen,631,Chelsea,405,Aston Villa,44500000.0,2024-07-01
+502821,Riccardo Calafiori,1025,Bologna,11,Arsenal,43700000.0,2024-07-29
+435648,Joshua Zirkzee,1025,Bologna,985,Man Utd,42500000.0,2024-07-14
+488362,Conor Gallagher,631,Chelsea,13,Atlético,42000000.0,2024-08-21
+922693,Archie Gray,399,Leeds,148,Tottenham,41250000.0,2024-07-02
+567576,Elliot Anderson,762,Newcastle,703,Nott'm Forest,41200000.0,2024-07-01
+763079,Abdukodir Khusanov,826,Lens,281,Man City,40000000.0,2025-01-20
+661171,Willian Pacho,24,Frankfurt,583,PSG,40000000.0,2024-08-09
+386446,Alessandro Buongiorno,416,Torino,6195,Napoli,36500000.0,2024-07-13
+1012534,Yankuba Minteh,762,Newcastle,1237,Brighton,35000000.0,2024-07-01
+351809,Robin Le Normand,681,Real Sociedad,13,Atlético,34500000.0,2024-07-27
+670858,Lewis Hall,631,Chelsea,762,Newcastle,33000000.0,2024-07-01
+338424,Mikel Merino,681,Real Sociedad,11,Arsenal,32000000.0,2024-08-27
+238407,Alexander Sørloth,1050,Villarreal,13,Atlético,32000000.0,2024-08-03
+262749,David Raya,1148,Brentford,11,Arsenal,31900000.0,2024-07-04
+291200,Moussa Niakhaté,703,Nott'm Forest,1041,Lyon,31900000.0,2024-07-04
+392765,Emile Smith Rowe,11,Arsenal,931,Fulham,31800000.0,2024-08-02
+700106,Brajan Gruda,39,Mainz,1237,Brighton,31500000.0,2024-08-14
+709726,Hugo Ekitiké,583,PSG,24,Frankfurt,31500000.0,2024-07-01
+394300,Davide Frattesi,6574,Sassuolo,46,Inter,31400000.0,2024-07-01
+96341,Romelu Lukaku,631,Chelsea,6195,Napoli,30700000.0,2024-08-29
+315969,Scott McTominay,985,Man Utd,6195,Napoli,30500000.0,2024-08-30
+343537,Artem Dovbyk,12321,Girona,12,Roma,30500000.0,2024-08-02
+926952,Patrick Dorgu,1005,Lecce,985,Man Utd,30000000.0,2025-02-02
+502676,Giorgi Mamardashvili,1049,Valencia,31,Liverpool,30000000.0,2024-08-27
+340324,Eddie Nketiah,11,Arsenal,873,Crystal Palace,29700000.0,2024-08-30
+260827,Joachim Andersen,873,Crystal Palace,931,Fulham,29500000.0,2024-08-23
+743498,Wilson Odobert,1132,Burnley,148,Tottenham,29300000.0,2024-08-16
+474701,Crysencio Summerville,399,Leeds,379,West Ham,29300000.0,2024-08-03
+578392,Maximilian Beier,533,Hoffenheim,16,Dortmund,28500000.0,2024-08-12
+659542,Elye Wahi,826,Lens,244,Marseille,27000000.0,2024-08-13
+75489,Niclas Füllkrug,16,Dortmund,379,West Ham,27000000.0,2024-08-05
+339314,Deniz Undav,1237,Brighton,79,Stuttgart,26700000.0,2024-08-09
+659542,Elye Wahi,244,Marseille,24,Frankfurt,26000000.0,2025-01-24
+569598,Youssouf Fofana,162,Monaco,5,AC Milan,26000000.0,2024-08-17
+532826,Mason Greenwood,985,Man Utd,244,Marseille,26000000.0,2024-07-18
+668951,Matías Soulé,506,Juventus,12,Roma,25600000.0,2024-07-30
+326029,Donyell Malen,16,Dortmund,405,Aston Villa,25000000.0,2025-01-14
+585323,Filip Jørgensen,1050,Villarreal,631,Chelsea,24500000.0,2024-07-30
+435772,Charles De Ketelaere,5,AC Milan,800,Atalanta,23700000.0,2024-07-01
+541231,Sepp van den Berg,31,Liverpool,1148,Brentford,23600000.0,2024-08-22
+124419,Odysseas Vlachodimos,703,Nott'm Forest,762,Newcastle,23600000.0,2024-07-01
+333014,Sander Berge,1132,Burnley,931,Fulham,23550000.0,2024-08-22
+353892,Hiroki Ito,79,Stuttgart,27,Bayern Munich,23500000.0,2024-07-01
+559263,Fábio Carvalho,31,Liverpool,1148,Brentford,23400000.0,2024-08-12
+289592,Orel Mangala,703,Nott'm Forest,1041,Lyon,23400000.0,2024-07-02
+512385,Luis Sinisterra,399,Leeds,989,Bournemouth,23400000.0,2024-07-01
+335457,Ermedin Demirovic,167,Augsburg,79,Stuttgart,23000000.0,2024-07-16
+633992,Enzo Le Fée,273,Stade Rennais,12,Roma,23000000.0,2024-07-10
+193004,Waldemar Anton,79,Stuttgart,16,Dortmund,22500000.0,2024-07-08
+890290,Dean Huijsen,506,Juventus,989,Bournemouth,22100000.0,2024-07-30
+357992,Raoul Bellanova,416,Torino,800,Atalanta,22000000.0,2024-08-22
+554903,Mateo Retegui,252,Genoa,800,Atalanta,20900000.0,2024-08-08
+463618,Khéphren Thuram,417,Nice,506,Juventus,20600000.0,2024-07-10
+442891,Martin Terrier,273,Stade Rennais,15,Leverkusen,20000000.0,2024-07-18
+711544,Jake O'Brien,1041,Lyon,29,Everton,19500000.0,2024-07-30
+418659,Amine Gouiri,273,Stade Rennais,244,Marseille,19000000.0,2025-01-31
+729814,Georges Mikautadze,347,FC Metz,1041,Lyon,18500000.0,2024-07-18
+434224,Maxence Lacroix,82,Wolfsburg,873,Crystal Palace,18000000.0,2024-08-30
+624690,Manu Koné,18,Mönchengladbach,12,Roma,18000000.0,2024-08-30
+484988,Logan Costa,415,Toulouse,1050,Villarreal,18000000.0,2024-08-22
+552057,Adam Hlozek,15,Leverkusen,533,Hoffenheim,18000000.0,2024-08-17
+270541,Serhou Guirassy,79,Stuttgart,16,Dortmund,18000000.0,2024-07-18
+623570,Iliman Ndiaye,244,Marseille,29,Everton,18000000.0,2024-07-03
+261504,Aleix García,12321,Girona,15,Leverkusen,18000000.0,2024-07-01
+477758,Aaron Wan-Bissaka,985,Man Utd,379,West Ham,17600000.0,2024-08-13
+128223,Álvaro Morata,13,Atlético,5,AC Milan,17200000.0,2024-07-19
+457736,Tijjani Noslin,276,Hellas Verona,398,Lazio,16800000.0,2024-07-01
+251106,Enes Ünal,3709,Getafe,989,Bournemouth,16500000.0,2024-07-01
+538964,Thijs Dallinga,415,Toulouse,1025,Bologna,16200000.0,2024-07-23
+476344,Emerson Royal,148,Tottenham,5,AC Milan,16000000.0,2024-08-12
+1005240,Christian Mawissa,415,Toulouse,162,Monaco,16000000.0,2024-08-11
+395237,Maxence Caqueret,1041,Lyon,1047,Como,15000000.0,2025-01-12
+340456,Noussair Mazraoui,27,Bayern Munich,985,Man Utd,15000000.0,2024-08-13
+410225,Ismaïla Sarr,244,Marseille,873,Crystal Palace,15000000.0,2024-08-01
+918969,Lamine Camara,347,FC Metz,162,Monaco,15000000.0,2024-07-30
+282144,Marin Pongracic,1005,Lecce,430,Fiorentina,15000000.0,2024-07-19
+689637,Chadi Riad,150,Real Betis,873,Crystal Palace,15000000.0,2024-07-02
+919515,Jeanuël Belocian,273,Stade Rennais,15,Leverkusen,15000000.0,2024-07-01
+465830,Mattéo Guendouzi,244,Marseille,398,Lazio,14800000.0,2024-07-01

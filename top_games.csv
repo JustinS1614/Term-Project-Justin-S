@@ -1,0 +1,57 @@
+game_id,competition_id,season,date,home_club_id,away_club_id,home_club_name,away_club_name,home_club_goals,away_club_goals,stadium,attendance
+4353893,DFB,2024,2024-08-27,91,79,Preußen Münster,Verein für Bewegungsspiele Stuttgart 1893,0,5,LVM-Preußenstadion,12672
+4353894,DFB,2024,2024-08-19,23,24,Eintracht Braunschweig,Eintracht Frankfurt Fußball AG,1,4,EINTRACHT-Stadion,21101
+4361265,GB1,2024,2024-08-17,762,180,Newcastle United Football Club,Southampton FC,1,0,St James' Park,52196
+4361267,GB1,2024,2024-08-17,379,405,West Ham United Football Club,Aston Villa Football Club,1,2,London Stadium,61990
+4361268,GB1,2024,2024-08-18,1148,873,Brentford Football Club,Crystal Palace Football Club,2,1,Gtech Community Stadium,16988
+4361269,GB1,2024,2024-08-18,631,281,Chelsea Football Club,Manchester City Football Club,0,2,Stamford Bridge,39818
+4361270,GB1,2024,2024-08-19,1003,148,Leicester City,Tottenham Hotspur Football Club,1,1,King Power Stadium,31977
+4361272,GB1,2024,2024-08-24,405,11,Aston Villa Football Club,Arsenal Football Club,0,2,Villa Park,42682
+4361274,GB1,2024,2024-08-24,873,379,Crystal Palace Football Club,West Ham United Football Club,0,2,Selhurst Park,25099
+4361290,GB1,2024,2024-08-31,11,1237,Arsenal Football Club,Brighton and Hove Albion Football Club,1,1,Emirates Stadium,60326
+4361297,GB1,2024,2024-09-01,762,148,Newcastle United Football Club,Tottenham Hotspur Football Club,2,1,St James' Park,52211
+4361355,GB1,2024,2024-09-14,31,703,Liverpool Football Club,Nottingham Forest Football Club,0,1,Anfield,60725
+4361385,GB1,2024,2024-10-05,873,31,Crystal Palace Football Club,Liverpool Football Club,0,1,Selhurst Park,25185
+4361404,GB1,2024,2024-10-27,631,762,Chelsea Football Club,Newcastle United Football Club,2,1,Stamford Bridge,40853
+4361408,GB1,2024,2024-10-27,379,985,West Ham United Football Club,Manchester United Football Club,2,1,London Stadium,62474
+4361561,ES1,2024,2024-08-24,131,621,Futbol Club Barcelona,Athletic Club Bilbao,2,1,Olímpic Lluís Companys,46448
+4363743,FR1,2024,2024-08-17,3911,244,Stade brestois 29,Olympique de Marseille,1,5,Stade Francis-Le Blé,14962
+4363750,FR1,2024,2024-08-16,738,583,Le Havre Athletic Club,Paris Saint-Germain Football Club,1,4,Stade Océane,23167
+4363759,FR1,2024,2024-08-24,1041,162,Olympique Lyonnais,Association sportive de Monaco Football Club,0,2,Groupama Stadium,54392
+4363781,FR1,2024,2024-09-21,1421,583,Stade Reims,Paris Saint-Germain Football Club,1,1,Stade Auguste-Delaune,20220
+4363814,FR1,2024,2024-10-19,583,667,Paris Saint-Germain Football Club,Racing Club de Strasbourg Alsace,4,2,Parc des Princes,47590
+4363927,FR1,2024,2025-02-08,618,273,AS Saint-Étienne,Stade Rennais Football Club,0,2,Stade Geoffroy-Guichard,30385
+4364932,BE1,2024,2024-07-28,968,520,Koninklijke Voetbal Club Westerlo,Cercle Brugge Koninklijke Sportvereniging,3,0,Het Kuipje,4134
+4373299,L1,2024,2024-08-25,82,27,Verein für Leibesübungen Wolfsburg,FC Bayern München,2,3,Volkswagen Arena,28917
+4373385,L1,2024,2024-10-06,24,27,Eintracht Frankfurt Fußball AG,FC Bayern München,3,3,Deutsche Bank Park,58000
+4373401,L1,2024,2024-10-19,15,24,Bayer 04 Leverkusen Fußball,Eintracht Frankfurt Fußball AG,2,1,BayArena,30210
+4373910,IT1,2024,2024-08-19,506,1047,Juventus Football Club,Calcio Como,3,0,Allianz Stadium,40696
+4373913,IT1,2024,2024-08-17,5,416,Associazione Calcio Milan,Torino Calcio,2,2,Giuseppe Meazza,70742
+4373921,IT1,2024,2024-08-24,130,5,Parma Calcio 1913,Associazione Calcio Milan,2,1,Ennio Tardini,21808
+4373937,IT1,2024,2024-09-14,1047,1025,Calcio Como,Bologna Football Club 1909,2,2,Giuseppe Sinigaglia,10584
+4373939,IT1,2024,2024-09-15,252,12,Genoa Cricket and Football Club,Associazione Sportiva Roma,1,1,Luigi Ferraris,33009
+4373949,IT1,2024,2024-09-22,46,5,Football Club Internazionale Milano S.p.A.,Associazione Calcio Milan,1,2,Giuseppe Meazza,75366
+4393149,TR1,2024,2024-09-14,141,126,Galatasaray Spor Kulübü,Çaykur Rizespor Kulübü,5,0,Ali Sami Yen Spor Kompleksi RAMS Park,43088
+4396646,PO1,2024,2024-08-09,336,2425,Sporting Clube de Portugal,Rio Ave Futebol Clube,3,1,Estádio José Alvalade,38513
+4396766,PO1,2024,2024-08-24,294,2431,Sport Lisboa e Benfica,Club Football Estrela da Amadora,1,0,Estádio da Luz,59490
+4407643,ES1,2024,2025-04-19,237,1244,Real Club Deportivo Mallorca S.A.D.,CD Leganés,0,0,Mallorca Son Moix,17404
+4411692,GBCS,2024,2024-08-10,985,281,Manchester United Football Club,Manchester City Football Club,7,8,Wembley Stadium,78146
+4445038,CL,2024,2024-09-18,281,46,Manchester City Football Club,Football Club Internazionale Milano S.p.A.,0,0,Etihad Stadium,50922
+4445045,CL,2024,2024-10-23,281,197,Manchester City Football Club,"AC Sparta Praha, a. s.",5,0,Etihad Stadium,50116
+4445061,CL,2024,2024-10-02,23826,506,RasenBallsport Leipzig,Juventus Football Club,2,3,Red Bull Arena,45228
+4446800,DFB,2024,2024-10-29,82,16,Verein für Leibesübungen Wolfsburg,Borussia Dortmund,1,0,Volkswagen Arena,24806
+4502566,FAC,2024,2025-01-12,11,985,Arsenal Football Club,Manchester United Football Club,4,6,Emirates Stadium,60109
+4506875,CDR,2024,2025-01-04,16387,131,UD Barbastro,Futbol Club Barcelona,0,4,Municipal de Barbastro,5500
+4506877,CDR,2024,2025-01-06,44584,418,Deportiva Minera,Real Madrid Club de Fútbol,0,5,Cartagonova,
+4511626,DFB,2024,2025-02-05,15,3,Bayer 04 Leverkusen Fußball,1. Fußball-Club Köln,3,2,BayArena,30210
+4527517,CDR,2024,2025-01-16,418,940,Real Madrid Club de Fútbol,Real Club Celta de Vigo S. A. D.,5,2,Santiago Bernabéu,
+4527518,CDR,2024,2025-01-15,131,150,Futbol Club Barcelona,Real Betis Balompié S.A.D.,5,1,Olímpic Lluís Companys,46019
+4547604,CL,2024,2025-03-11,31,583,Liverpool Football Club,Paris Saint-Germain Football Club,1,5,Anfield,59765
+4547637,CL,2024,2025-03-12,13,418,Club Atlético de Madrid S.A.D.,Real Madrid Club de Fútbol,3,4,Riyadh Air Metropolitano,69304
+4547654,CL,2024,2025-05-06,46,131,Football Club Internazionale Milano S.p.A.,Futbol Club Barcelona,4,3,Giuseppe Meazza,75504
+4547802,EL,2024,2025-04-17,985,1041,Manchester United Football Club,Olympique Lyonnais,5,4,Old Trafford,73228
+4557609,CDR,2024,2025-04-01,418,681,Real Madrid Club de Fútbol,Real Sociedad de Fútbol S.A.D.,4,4,Santiago Bernabéu,
+4562596,FAC,2024,2025-03-01,989,543,Association Football Club Bournemouth,Wolverhampton Wanderers Football Club,6,5,Vitality Stadium,11021
+4562598,FAC,2024,2025-03-02,762,1237,Newcastle United Football Club,Brighton and Hove Albion Football Club,1,2,St James' Park,51566
+4572898,FAC,2024,2025-03-29,1237,703,Brighton and Hove Albion Football Club,Nottingham Forest Football Club,3,4,AMEX Stadium,29930
+4588078,CDR,2024,2025-04-26,131,418,Futbol Club Barcelona,Real Madrid Club de Fútbol,3,2,La Cartuja,65080
